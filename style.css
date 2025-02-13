@@ -1,0 +1,32 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.bg-color {
+  background-color: #f2f7fb;
+}
+
+.custom-text-blue {
+  color: #0097b2;
+}
+
+.custom-bg--blue {
+  background: #c7edf4;
+}
+
+.custom--img {
+  width: 160px;
+  height: 195px;
+}
+
+.custom--fontSize-tittle {
+  font-size: 4rem;
+}
+
+.custom--fontSize {
+  font-size: 3rem;
+}
+
+.custom--width {
+  width: 50%;
+}
